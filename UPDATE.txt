@@ -1,0 +1,2 @@
+Option 1: Download from http://... the whole game and move the deck files from original version to new version and delete the original version.
+Option 2: From http://... clone the repo (need a Github account?) then whenever a update is needed you can just pull from this repo.

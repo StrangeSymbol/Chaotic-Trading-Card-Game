@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chaotic.exe" size="225768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chaotic.exe" size="230888">
       <assemblyIdentity name="Chaotic" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>WM8ZyY6VJnARi7kKwSWiCggANqI=</dsig:DigestValue>
+        <dsig:DigestValue>xFqw6Jyd8/KWY10OJu4uLYfeCP8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoticGameLib.dll" size="163840">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoticGameLib.dll" size="164352">
       <assemblyIdentity name="ChaoticGameLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tHP04BV+lLNe+0B5sjb8hLxHjNs=</dsig:DigestValue>
+        <dsig:DigestValue>JgCZbUg3Vl4lzIZocdRebq4BuOw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1294,6 +1294,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>ThTbXdOq4VTDzD5CRcX9vXM+qiw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Coin\OverWorldHeads.xnb" size="6726">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>G3Q6Yc9aQsEVvdQG7bfbXWabEB8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Coin\OverWorldTails.xnb" size="5412">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aPetYAvPnuUrL+8dc5EZ/+XM+GY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Creatures\Arias.xnb" size="216482">
