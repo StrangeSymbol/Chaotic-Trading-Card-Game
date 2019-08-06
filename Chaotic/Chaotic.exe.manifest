@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Chaotic.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="Chaotic.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="en-CA" processorArchitecture="x86" type="win32" />
   <description asmv2:iconFile="ChaoticSymbolIcon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
@@ -43,26 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chaotic.exe" size="240616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Chaotic.exe" size="261096">
       <assemblyIdentity name="Chaotic" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>w9N25GDrKajKIn30UE5IONRX1Po=</dsig:DigestValue>
+        <dsig:DigestValue>pcfg+0SPbCNy90tQsznUewh7+WE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoticGameLib.dll" size="164352">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoticGameLib.dll" size="176128">
       <assemblyIdentity name="ChaoticGameLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>wYj1MbQMvgd+SwD1sVP8Zjx/Ts4=</dsig:DigestValue>
+        <dsig:DigestValue>0eptqNCxdHlivoFTtN15zcyFm8o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1287,13 +1287,13 @@
       <dsig:DigestValue>ghFSiMP7NdMYfRZWyOG9OGVQx2A=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\CardOutline.xnb" size="334">
+  <file name="Content\CardOutline.xnb" size="344">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>ThTbXdOq4VTDzD5CRcX9vXM+qiw=</dsig:DigestValue>
+      <dsig:DigestValue>2HK8w58qsievO5/Ch9GW2nIzG9I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Coin\OverWorldHeads.xnb" size="6726">
@@ -2538,6 +2538,15 @@
       <dsig:DigestValue>Qi1vqDJdUV7EWh8c3SOxMBbPg/w=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\Mugics\ChorusOfTheHive.xnb" size="110430">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TzFXC4qoFP2SGMfQBC5k6iIxtEc=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\Mugics\Decrescendo.xnb" size="120122">
     <hash>
       <dsig:Transforms>
@@ -2682,6 +2691,15 @@
       <dsig:DigestValue>hBzzw71nc9nw2a8mUdMoaW1fHIU=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\Mugics\RefrainOfDenial_OverWorld0UnderWorld_.xnb" size="133092">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TLmxRyt/4TfK1eTTsv3w0G8J7HE=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\Mugics\SongOfAsperity.xnb" size="181100">
     <hash>
       <dsig:Transforms>
@@ -2745,6 +2763,15 @@
       <dsig:DigestValue>bdChLgKH7fzX7fkdoQg8pZl1Mck=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Content\Mugics\SongOfMandiblor.xnb" size="187636">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>K5PK9R5mAq4IuPFXxkMdgaRS+CA=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Content\Mugics\SongOfRecovery.xnb" size="183580">
     <hash>
       <dsig:Transforms>
@@ -2752,6 +2779,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>wgmPHeXH2OayjrOROtHpDA+2l9Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Mugics\SongOfResistance.xnb" size="89918">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xc/6yaFFGQDbNLqm7+Lv28I0Pzg=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Mugics\SongOfResurgence.xnb" size="187548">
@@ -2779,6 +2815,24 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>8/2by2Yh2nShLaIXdlQnJIDJchI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Mugics\SongOfSurprisal.xnb" size="126028">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QIUWo8+DLH7Ss3k8u0zfSBx2gdM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Content\Mugics\SongOfSymmetry.xnb" size="172920">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>yAhTgQw2X+AEytFwVYgspZ+MMS0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\Mugics\SongOfTreachery.xnb" size="211452">
